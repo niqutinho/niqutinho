@@ -48,7 +48,7 @@ $ echo $STATUS
 
 <div align="center">
 
-*"The best time to start was yesterday. The second best time is now."*
+*"Jesus loves you"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=80&section=footer" width="100%"/>
 
